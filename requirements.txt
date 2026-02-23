@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain-mistralai
+langchain-google-genai
+langchain-chroma
+langchain-community
+pypdf
+python-dotenv
