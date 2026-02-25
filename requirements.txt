@@ -7,3 +7,4 @@ langchain-chroma
 langchain-community
 pypdf
 python-dotenv
+ipython
